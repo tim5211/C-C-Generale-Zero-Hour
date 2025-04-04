@@ -5,7 +5,8 @@ These maps are managed using the Tim’s Zero Hour Map Manager – a lightweight
 
 --------------------------------------------------------------------------------
 
-📦 Requirements
+📦 Requirements:
+
 ✅ Tim’s Zero Hour Map Manager
 Download the latest version.
 No installation required – just run the executable.
@@ -13,19 +14,18 @@ No installation required – just run the executable.
 
 --------------------------------------------------------------------------------
 
-📁 How to Use
+📁 How to Use:
+
 Download one or more .packed or .zip map files from this repository.
-
 Place the .packed or .zip files in the same folder as Tim's Zero Hour Map Manager.exe.
-
 Launch the map manager.
-
 Select maps to install or uninstall from the menu.
 
 
 --------------------------------------------------------------------------------
 
-📝 Map Documentation
+📝 Map Documentation:
+
 Most maps include a readme.txt, or .info file.
 
 If found, the map manager will automatically display it during installation to provide map details and key features.
@@ -33,7 +33,8 @@ If found, the map manager will automatically display it during installation to p
 
 --------------------------------------------------------------------------------
 
-🔧 Troubleshooting
+🔧 Troubleshooting:
+
 If the manager doesn't detect your documents folder or game directory, ensure:
 
 You're using Windows OS
