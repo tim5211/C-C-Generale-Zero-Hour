@@ -17,8 +17,11 @@ No installation required – just run the executable.
 📁 How to Use:
 
 Download one or more .packed or .zip map files from this repository.
+
 Place the .packed or .zip files in the same folder as Tim's Zero Hour Map Manager.exe.
+
 Launch the map manager.
+
 Select maps to install or uninstall from the menu.
 
 
